@@ -1,8 +1,8 @@
-### Dashboard made with Dash/Plotly
+# Dashboard made with Dash/Plotly
 
-# download librairies with
+## download librairies with
 ```
 pip install -r requirements.txt
 ```
 
-# ChatGPT is my best friend to start up thsi project
+## ChatGPT is my best friend to start up this project
